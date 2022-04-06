@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Путеводитель ЕГЭ</string>
+    <string name="up">Узнать подробнее</string>
+    <string name="del">Удалить</string>
+</resources>
