@@ -15,7 +15,7 @@ public class MyDialogFragment extends AppCompatDialogFragment {
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState) {
 
-//        названия предметов
+//        названия предметов 2
         final String[] objNamesArray = {"Математика", "Информатика", "Русский язык", "Физика",
         "История", "Обществознание", "Химия", "Биология"};
         final boolean[] checkedItemsArray = {true, false, true, false, false, false, false, false};
